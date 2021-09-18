@@ -3,7 +3,7 @@ package day01;
 public class First {
 
 	public static void main(String[] args) {
-		System.out.println("Baskar Tested");
+		System.out.println("Baskar Tested Successfully");
 
 	}
 
